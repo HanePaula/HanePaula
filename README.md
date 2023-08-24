@@ -1,6 +1,6 @@
 # Paula Gaspar - Desenvolvedora Web
 
-Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará um pouco sobre minha jornada como estudante de Análise e Desenvolvimento de Sistemas com foco na emocionante área do Desenvolvimento Web. Apesar de estar nos primeiros passos dessa jornada, estou empolgada em aprimorar minhas habilidades como programadora e enfrentar desafios diários com projetos cada vez mais desafiadores.
+Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará um pouco sobre minha jornada como estudante de Análise e Desenvolvimento de Sistemas com foco na área de Desenvolvimento Web. Apesar de estar nos primeiros passos dessa jornada, estou empolgada em aprimorar minhas habilidades como programadora e enfrentar desafios diários com projetos cada vez mais desafiadores.
 
 ## Sobre Mim
 
