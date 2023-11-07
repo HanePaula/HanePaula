@@ -26,4 +26,4 @@ Sinta-se à vontade para explorar meus projetos, entrar em contato e acompanhar 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HanePaula&repo=popular-movies&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HanePaula/popular-movies)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HanePaula&repo=optimus-tech&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HanePaula/optimus-tech)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HanePaula&repo=hanekawas-toe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HanePaula/hanekawas-toe)
